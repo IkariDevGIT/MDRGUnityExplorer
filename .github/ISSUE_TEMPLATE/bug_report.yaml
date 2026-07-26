@@ -83,6 +83,8 @@ body:
       label: Terms and Agreement
       description: Please read and check the following boxes before submitting.
       options:
+      　- label: I understand that nothing can be done for games that don't support mods.
+          required: true
         - label: I acknowledge that duplicate issues will be closed without notice.
           required: true
         - label: I acknowledge that appropriate action will be taken if duplicate or redundant reports are repeatedly submitted.
